@@ -13,13 +13,12 @@
 
 1.    CORPSE function code: **CORPSE Functions_Bioenergy.R**
 
-2.    Data streams to load into the script: 
+2.    Data streams to load into the script: <br>
+    a. **bulk.csv, bulk_till.csv, rhizo.csv, rhizo_till.csv, litter.csv**: initial C and N (kg C or N/m<sup>2</sup>) pool values for each soil compartment, final values from spin up. <br> 
 
-	a.    **bulk.csv, bulk_till.csv, rhizo.csv, rhizo_till.csv, litter.csv**: initial C and N (kg C or N/m<sup>2</sup>) pool values for each soil layer, final values from spin up.
+All five files have the same columns:
 
-	All five files have the same columns:
-
-| **Column **    | **Description**                       | **Units**                  |
+| **Column**    | **Description**                       | **Units**                  |
 | -------------- | ------------------------------------- | -------------------------- |
 | uFastC         | Unprotected fast decomposing carbon   | kg  carbon/m<sup>2</sup>   |
 | uSlowC         | Unprotected slow decomposing carbon   | kg  carbon/m<sup>2</sup>   |
@@ -134,5 +133,5 @@ This model is a reparameterized version of the original FUN-BioCROP model (Fixat
 
 **Related Links:**
 
-Original FUN-BioCROP model: https://github.com/BrzostekEcologyLab/FUN-BioCROP
+Original FUN-BioCROP model: https://github.com/BrzostekEcologyLab/FUN-BioCROP <br>
 LIDET dataset: https://andlter.forestry.oregonstate.edu/data/abstract.aspx?dbcode=TD023
