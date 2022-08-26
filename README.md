@@ -1,4 +1,7 @@
 # FUN-BioCROP with LIDET Parameters
+
+[![DOI](https://zenodo.org/badge/528962010.svg)](https://zenodo.org/badge/latestdoi/528962010)
+
  Version of FUN-BioCROP model (https://github.com/BrzostekEcologyLab/FUN-BioCROP) with LIDET-derived litter decomposition parameters
 
 **Model name:** “FUNBioCROP_LIDETParams.Rmd”
