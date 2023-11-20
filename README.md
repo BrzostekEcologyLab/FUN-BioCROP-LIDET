@@ -93,13 +93,15 @@ All five files have the same columns:
 
 2) In “Chunk 3: Load CORPSE Data Streams” set the working directory (setwd) to the folder with the files saved in step #1.
 
-3) If changing any parameter values, edit them in “Chunk 5: Load parameters.” 
+3) In "Chunk 5: Define LIDET parameter sets" select the litter decomposition parameter set to be used in the run, and comment out all other sets.
+   
+5) If changing any parameter values, edit them in “Chunk 6: Load parameters.” 
 
-4) Run all chunks up to and including “Chunk 10: Prepare Data for Export.”
+6) Run all chunks up to and including “Chunk 10: Prepare Data for Export.”
 
-5) In “Chunk 11: Export Output Data” edit data frames for export and filenames, as necessary. 
+7) In “Chunk 11: Export Output Data” edit data frames for export and filenames, as necessary. 
 
-6) “Chunk 12: Graph Total Soil C” makes a figure of C remaining over the model run period.
+8) “Chunk 12: Graph Total Soil C” makes a figure of C remaining over the model run period.
 
 **Description:** 
 
@@ -131,7 +133,7 @@ This model is a reparameterized version of the original FUN-BioCROP model (Fixat
 
 13. **Chunk 12: Export Results.** Exports CSV files of model results to the working directory. 
 
-14. **Chunk 12: Graph C Remaining.** Makes figure of C remaining over time. 
+14. **Chunk 12: Graph Total Soil C.** Makes figure of C remaining over time. 
 
     
 
