@@ -133,7 +133,7 @@ This model is a reparameterized version of the original FUN-BioCROP model (Fixat
 
 13. **Chunk 12: Export Results.** Exports CSV files of model results to the working directory. 
 
-14. **Chunk 12: Graph Total Soil C.** Makes figure of C remaining over time. 
+14. **Chunk 13: Graph Total Soil C.** Makes figure of C remaining over time. 
 
     
 
