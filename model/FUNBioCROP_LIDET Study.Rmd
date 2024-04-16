@@ -955,7 +955,7 @@ rhizo_frac <- input$rhizo_frac[i]
   
      if (leafN[i,1] == 1){ 
       resorbper[j]<-(1-(total_Nacq_resorb[i,j]/leafN2))
-      litter_productionN[i,j]<-(leafN[i,j]*resorbper[j])
+      litter_productionN[i,j]<-(leafN[i,3]*resorbper[j])
       litter_productionCN[i,j]<-litter_production_c[i]/litter_production_n[i]
     }
     
