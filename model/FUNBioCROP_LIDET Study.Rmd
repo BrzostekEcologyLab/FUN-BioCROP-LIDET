@@ -31,7 +31,7 @@ library(tidyverse)
 ```{r Load CORPSE Data Streams}
 
 # Set working directory
-setwd("C:/Users/steph/OneDrive - West Virginia University/WVU/Projects/LIDET Model Comparison/230411_Revisions_FUN-BioCROP bioenergy runs/for GitHub") # add filepath for working directory with input data and CORPSE function code
+setwd("") # add filepath for working directory with input data and CORPSE function code
 
 # Initial C and N pool values for bulk, rhizosphere and litter layers (kg C or N/m2)
 # Set108 Initial C and N pool values, from historical spinup
