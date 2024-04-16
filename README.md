@@ -10,6 +10,9 @@
 
 **Contact information:** stephanie.juice@mail.wvu.edu, erbrzostek@mix.wvu.edu 
 
+**Related publication:**  
+Juice, S. M., Ridgeway, J. R., Hartman, M. D., Parton, W. J., Berardi, D. M., Sulman, B. N., et al. (2024). Reparameterizing litter decomposition using a simplified Monte Carlo method improves litter decay simulated by a microbial model and alters bioenergy soil carbon estimates. Journal of Geophysical Research: Biogeosciences, 129, e2023JG007625. https://doi.org/10.1029/2023JG007625
+
 **Software**: R
 
 **Accompanying files**: 
